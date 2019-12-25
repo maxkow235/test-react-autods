@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/test-react-autods/static/js/main.35016c9a.chunk.js",
+    "main.js.map": "/test-react-autods/static/js/main.35016c9a.chunk.js.map",
+    "runtime-main.js": "/test-react-autods/static/js/runtime-main.7f5395e2.js",
+    "runtime-main.js.map": "/test-react-autods/static/js/runtime-main.7f5395e2.js.map",
+    "static/css/2.67f0b534.chunk.css": "/test-react-autods/static/css/2.67f0b534.chunk.css",
+    "static/js/2.017c7fb6.chunk.js": "/test-react-autods/static/js/2.017c7fb6.chunk.js",
+    "static/js/2.017c7fb6.chunk.js.map": "/test-react-autods/static/js/2.017c7fb6.chunk.js.map",
+    "index.html": "/test-react-autods/index.html",
+    "precache-manifest.6cadc8ba226b6400690064a8c8a1d915.js": "/test-react-autods/precache-manifest.6cadc8ba226b6400690064a8c8a1d915.js",
+    "service-worker.js": "/test-react-autods/service-worker.js",
+    "static/css/2.67f0b534.chunk.css.map": "/test-react-autods/static/css/2.67f0b534.chunk.css.map",
+    "static/js/2.017c7fb6.chunk.js.LICENSE": "/test-react-autods/static/js/2.017c7fb6.chunk.js.LICENSE",
+    "static/media/file.svg": "/test-react-autods/static/media/file.c7510286.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f5395e2.js",
+    "static/css/2.67f0b534.chunk.css",
+    "static/js/2.017c7fb6.chunk.js",
+    "static/js/main.35016c9a.chunk.js"
+  ]
+}
